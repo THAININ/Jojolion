@@ -1,3 +1,5 @@
+package jojolion.entidades;
+
 public class Jogador {
     // atributos
     private String nome;
